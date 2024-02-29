@@ -19,6 +19,8 @@ udp-policy-not-supported-behaviour = REJECT
 
 [Rule]
 DOMAIN-SUFFIX,easy4ipcloud.com,DIRECT
+DOMAIN-SUFFIX,dahuap2pcloud.com,DIRECT
+DOMAIN-SUFFIX,cossecurity.com,DIRECT
 IP-ASN,6185,DIRECT
 IP-ASN,714,DIRECT
 GEOIP,CN,DIRECT
