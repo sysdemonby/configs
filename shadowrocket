@@ -18,6 +18,7 @@ dns-direct-fallback-proxy = true
 udp-policy-not-supported-behaviour = REJECT
 
 [Rule]
+DOMAIN-SUFFIX,kino.pub,PROXY
 DOMAIN-SUFFIX,easy4ipcloud.com,DIRECT
 DOMAIN-SUFFIX,dahuap2pcloud.com,DIRECT
 DOMAIN-SUFFIX,cossecurity.com,DIRECT
